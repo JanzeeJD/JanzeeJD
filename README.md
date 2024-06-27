@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [JDGreens](https://github.com/JanzeeJD/heal)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React.js**
 
 - 🤝 I’m looking for help with **Web Development**
 

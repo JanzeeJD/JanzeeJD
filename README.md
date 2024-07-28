@@ -40,4 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janzeejd&show_icons=true&locale=en" alt="janzeejd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janzeejd&" alt="janzeejd" /></p>
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=JanzeeJD&theme=xcode)
+
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=JanzeeJD&amp;bg_color=000000&amp;color=ffffff&amp;line=2574b1&amp;point=e58a8a&amp;area=true&amp;hide_border=true" alt="Github activity graph"></p>

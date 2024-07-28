@@ -42,3 +42,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janzeejd&" alt="janzeejd" /></p>
 
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=JanzeeJD&amp;bg_color=000000&amp;color=ffffff&amp;line=2574b1&amp;point=e58a8a&amp;area=true&amp;hide_border=true" alt="Github activity graph"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanzeeJD&amp;layout=compact&amp;theme=blue-green" alt="GitHub Langs">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JanzeeJD&amp;layout=compact&amp;theme=blue-green" alt="JanzeeJD wakatime stats"></p>

@@ -43,6 +43,7 @@
 
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=JanzeeJD&amp;bg_color=000000&amp;color=ffffff&amp;line=2574b1&amp;point=e58a8a&amp;area=true&amp;hide_border=true" alt="Github activity graph"></p>
 <p>
+      <div>
 <svg class="js-activity-overview-graph mx-auto d-block" xmlns="http://www.w3.org/2000/svg" width="279" height="254">
       <title>A graph representing antfu's contributions from
       July 30, 2023 to July 31, 2024. The contributions are 83% commits, 12% code review, 4% pull requests, 1% issues.</title>
@@ -63,5 +64,5 @@
         <text text-anchor="end" class="activity-overview-percentage js-highlight-percent-left" dy="165" dx="53.43229293823242">83%</text>
         <text text-anchor="end" class="text-small activity-overview-label js-highlight-label-left" dy="181" dx="65.68294525146484">Commits</text>
       </g>
-    </svg>
+    </svg> </div>
 

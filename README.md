@@ -43,26 +43,4 @@
 
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=JanzeeJD&amp;bg_color=000000&amp;color=ffffff&amp;line=2574b1&amp;point=e58a8a&amp;area=true&amp;hide_border=true" alt="Github activity graph"></p>
 <p>
-      <div>
-<svg class="js-activity-overview-graph mx-auto d-block" xmlns="http://www.w3.org/2000/svg" width="279" height="254">
-      <title>A graph representing antfu's contributions from
-      July 30, 2023 to July 31, 2024. The contributions are 83% commits, 12% code review, 4% pull requests, 1% issues.</title>
-      <g transform="translate(-18.48504638671875, -39.0162353515625)">
-        <path class="js-highlight-blob" stroke-linejoin="round" fill="#40c463" stroke="#40c463" opacity="0.5" stroke-width="7" d="M166.5,157.65898003635635 L167.5700849969703,166.5 L166.5,166.78033998788123 L81.68294525146484,166.5 z"></path>
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-x-axis activity-overview-axis" x1="77.68294525146484" y1="166.5" x2="255.31705474853516" y2="166.5"></line>
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-y-axis activity-overview-axis" x1="166.5" y1="77.68294525146484" x2="166.5" y2="255.31705474853516"></line>
-        <ellipse class="activity-overview-point js-highlight-top-ellipse" rx="3" ry="3" stroke-width="2" fill="white" cx="166.5" cy="155.65898003635635"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-right-ellipse" rx="3" ry="3" stroke-width="2" fill="white" cx="169.5700849969703" cy="166.5"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-bottom-ellipse" rx="3" ry="3" stroke-width="2" fill="white" cx="166.5" cy="168.78033998788123"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-left-ellipse" rx="3" ry="3" stroke-width="2" fill="white" cx="79.68294525146484" cy="166.5"></ellipse>
-        <text text-anchor="middle" class="activity-overview-percentage js-highlight-percent-top" dx="166.5" dy="51.682945251464844">12%</text>
-        <text text-anchor="middle" class="text-small activity-overview-label js-highlight-label-top" dx="166.5" dy="67.68294525146484">Code review</text>
-        <text text-anchor="start" class="activity-overview-percentage js-highlight-percent-right" dy="165" dx="272.97102642059326">1%</text>
-        <text text-anchor="start" class="text-small activity-overview-label js-highlight-label-right" dy="181" dx="265.31705474853516">Issues</text>
-        <text text-anchor="middle" class="activity-overview-percentage js-highlight-percent-bottom" dx="166.5" dy="273.31705474853516">4%</text>
-        <text text-anchor="middle" class="text-small activity-overview-label js-highlight-label-bottom" dx="166.5" dy="289.31705474853516">Pull requests</text>
-        <text text-anchor="end" class="activity-overview-percentage js-highlight-percent-left" dy="165" dx="53.43229293823242">83%</text>
-        <text text-anchor="end" class="text-small activity-overview-label js-highlight-label-left" dy="181" dx="65.68294525146484">Commits</text>
-      </g>
-    </svg> </div>
-
+     

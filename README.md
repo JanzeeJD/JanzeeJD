@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jancy Daniel</h1>
-<h3 align="center">A Passionate Full Stack Developer on a Self-learning Journey from Kerala, India👩‍💻</h3>
+<h3 align="center">A Full Stack Developer on a Self-learning Journey from Kerala, India👩‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janzeejd&label=Profile%20views&color=0e75b6&style=flat" alt="janzeejd" /> </p>
 
